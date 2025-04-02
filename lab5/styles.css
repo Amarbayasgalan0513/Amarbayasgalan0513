@@ -1,0 +1,80 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #1b1b6c;
+    border: none;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #13124f;
+    color: white;
+    padding-left: 10%;
+}
+
+.btn-custom {
+    background-color: #f61067;
+    color: white;
+    border: none;
+    
+}
+
+.content {
+    padding: 30px 0;
+}
+
+.sidebar {
+    background-color: #ddd;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.message-box {
+    background-color: #13124f;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.message-box h5{
+    padding: 10px;
+    color: white;
+    background-color: #9090a5 ;
+}
+
+.footer {
+    background-color: #13124f;
+    color: white;
+    text-align;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+.btn-success {
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: #23af61 !important;
+    border: 1px solid black;
+}
+.btn-danger {
+    background-color:  rgba(255, 255, 255, 0) !important;
+    color: #f61067 !important;
+    border: 1px solid black;
+}
+.btn-danger:hover, .btn-danger:focus {
+    background-color: #f61067;
+    color: white !important;
+}
+
+.btn-success:hover, .btn-success:focus {
+    background-color: #2ad392 !important;
+    color: white !important;
+}
